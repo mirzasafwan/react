@@ -23,7 +23,7 @@ const App = () => {
       {/* <Child name="Safwan" /> */}
       {/* <MapList myList={myList} /> */}
 
-      <DarkMode dark={mode} toggle={toggle} />
+      <DarkMode mode={mode} toggle={toggle} />
     </div>
   );
 };
