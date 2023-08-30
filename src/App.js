@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 // import { Child } from "./Components/Child";
 
 // import { TextAnalyzer } from "./Components/TextAnalyzer";
-
+//
 const App = () => {
   // const myList = ["A", "B", "C", "D", "E"];
   const [mode, setMode] = useState("light");
